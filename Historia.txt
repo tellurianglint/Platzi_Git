@@ -1,0 +1,2 @@
+Esto es lo importante, saber si solo se guarda cuando se cambia
+Esta es una segunda opcion que cree para probar el Git diff, el Git show, Git commit mas commit con -m y un poco de VIM
